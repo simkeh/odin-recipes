@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    text-decoration-line: overline;
+}
+h3 {
+    color: darkslategray;
+    text-align: center;
+}
+
+#merikon {
+    float: right;}
+
+ul {
+    align-items: baseline;
+}
+
+img.frontpage {
+    height: 200px;
+    width: auto;
+    vertical-align: middle;
+}
